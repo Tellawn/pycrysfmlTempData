@@ -1,0 +1,7 @@
+Epsilon Greedy with 
+**1. SLOWER annealing epsilon
+2. scaled reward (difference in chi squared divided chi squared)
+3. optimizing chi-squared values
+4. z-coordinate of the praseodymium atom parameterized.
+5. Cutoff: (t > 10) and chi squared increases 3 times in a row
+6. initial z for each simulation is randomized
